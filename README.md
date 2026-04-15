@@ -18,9 +18,6 @@ A responsive CV website showcasing my skills, experience, education, and project
 - Google Fonts
 - Font Awesome Icons
 
-## Live Preview
-[Add your live link here]
-
 ## Contact
 - Email: namrakhan1426@gmail.com  
 - WhatsApp: 03165439691  
