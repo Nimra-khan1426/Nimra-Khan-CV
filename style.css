@@ -207,6 +207,14 @@
   transform: translateY(-50%) scale(1);
   pointer-events: auto;
 }
+.c-hover::after {
+  content: "";
+  position: absolute;
+  right: -12px;
+  top: 0;
+  width: 12px;
+  height: 100%;
+}
     .email-card {
       width: 220px;
       background: #fff;
@@ -286,7 +294,7 @@
     }
     .li-avatar img { width: 100%; height: 100%; object-fit: cover; }
     .li-cover img { width: 100%; height: 80px; object-fit: cover; border-radius: 10px 10px 0 0; }
-    .li-body { padding: 12px; margin-top: 25px; }
+    .li-body { padding: 12px; margin-top: 30px; }
     .li-profile-btn { background: #5598db; color: white; padding: 6px 12px; border-radius: 24px; text-decoration: none; font-size: 0.7rem; }
 
     /* Skills */
